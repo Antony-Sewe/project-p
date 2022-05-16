@@ -1,0 +1,7 @@
+"#slug-2021">>READM.md
+git init 
+git add README.md
+git commit-m "first commit"
+git branch
+git remote add origin http://github.com/slug-2021.git
+git push-u origin main
